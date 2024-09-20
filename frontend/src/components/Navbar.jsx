@@ -24,10 +24,10 @@ const Navbar = () => {
 					fontWeight={"bold"}
 					textTransform={"uppercase"}
 					textAlign={"center"}
-					bgGradient={"linear(to-r, cyan.400, blue.500)"}
+					bgGradient={"linear(to-r, cyan.400, red.500)"}
 					bgClip={"text"}
 				>
-					<Link to={"/"}>Product Store 🛒</Link>
+					<Link to={"/"}>Home Automation Store🛍️</Link>
 				</Text>
 
 				<HStack spacing={2} alignItems={"center"}>

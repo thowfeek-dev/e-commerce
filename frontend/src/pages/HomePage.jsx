@@ -18,11 +18,11 @@ const HomePage = () => {
 				<Text
 					fontSize={"30"}
 					fontWeight={"bold"}
-					bgGradient={"linear(to-r, cyan.400, blue.500)"}
-					bgClip={"text"}
+					bgGradient={"linear(to-r, cyan.400, red.500)"}
+					bgClip={"text"}	
 					textAlign={"center"}
 				>
-					Current Products 🚀
+					Current Products 
 				</Text>
 
 				<SimpleGrid
