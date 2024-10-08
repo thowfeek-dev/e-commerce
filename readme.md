@@ -16,6 +16,10 @@ This is a full-stack e-commerce application built with React.js, Node.js, Expres
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (NoSQL)
 
+## Live Demo
+
+Check out the live application here: [E-Commerce Live](https://e-commerce-krud.onrender.com/)
+
 ## Installation
 
 ### 1. Clone the repository:
@@ -23,40 +27,3 @@ This is a full-stack e-commerce application built with React.js, Node.js, Expres
 ```bash
 git clone https://github.com/thowfeek-dev/e-commerce.git
 cd e-commerce
-```
-
-### 2. Set up the environment variables:
-
-Create a `.env` file in the root of your project with the following:
-
-```bash
-MONGO_URI=your_mongo_uri
-PORT=5000
-```
-
-### 3. Install dependencies:
-
-```bash
-npm install
-```
-
-### 4. Build the application:
-
-```bash
-npm run build
-```
-
-### 5. Start the server:
-
-```bash
-npm run start
-```
-
-The app should now be running at [http://localhost:5000](http://localhost:5000).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This version removes references to authentication and admin panel functionalities to match your current project setup.
